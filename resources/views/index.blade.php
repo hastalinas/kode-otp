@@ -44,6 +44,7 @@ var firebaseConfig = {
 
     apiKey: "AIzaSyAcGCclCIDRz-W6DXH-oxFODoxmXa5OGz4",
     authDomain: "otpcode-8de7b.firebaseapp.com",
+    databaseURL: "https://otpcode-8de7b-default-rtdb.firebaseio.com",
     projectId: "otpcode-8de7b",
     storageBucket: "otpcode-8de7b.appspot.com",
     messagingSenderId: "886666133123",
